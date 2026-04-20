@@ -6,3 +6,9 @@
 ➡ Cột Age thiếu nhiều ( cần điền bằng số trung vị )
 ➡ Cột Cabin thiếu rất nhiều ( cần xóa )
 ➡ Cột Embarked thiếu vài chỗ ( cần điền theo giá trị xuất hiện nhiều nhất )
+
+📌Xử lý giá trị thiếu
+<img width="632" height="346" alt="image" src="https://github.com/user-attachments/assets/cea53aeb-6296-48f9-99ff-147bd758d074" />
+➡Sau khi xử lý giá trị thiếu, data đã đủ
+
+
