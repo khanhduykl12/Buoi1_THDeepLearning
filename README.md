@@ -12,4 +12,7 @@
 ➡Sau khi xử lý giá trị thiếu, data đã đủ
 
 📌Xử lý Outlier
-
+<img width="549" height="353" alt="image" src="https://github.com/user-attachments/assets/c29305a8-7880-44fa-9fad-1fd4ca60a17b" />
+➡Giá vé cao nhất đang có sự chênh lệch quá lớn
+<img width="486" height="363" alt="image" src="https://github.com/user-attachments/assets/c71111f9-233e-451d-9fe2-911b78cdbaea" />
+➡Điều chỉnh về giá trị trần, giúp giữ nguyên cỡ mẫu nhưng làm mượt dữ liệu.
